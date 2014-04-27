@@ -87,7 +87,7 @@ public class MenuScrollerActivity extends BaseGameActivity implements IScrollDet
         // Getter & Setter
         // ===========================================================
  
-        // ===========================================================
+        // =========================================================== 
         // Methods for/from SuperClass/Interfaces
         // ===========================================================
  
